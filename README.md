@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Mini Blog - Desenvolvido utilizando React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi criado para o curso React do Zero a Maestria (c/ hooks, router, API, Projetos).
 
 ## Available Scripts
 
